@@ -3,8 +3,7 @@
 # 💻 Description:
 
 # 🛠 System Requirements:
-Game version: Steam, Epic Games (Microsoft Store version is not supported)
-Supported OS: Windows 10, Windows 11 (All versions)
-Game Mode Supported: Full Screen / Borderless / Windowed
-Supported processors: Intel, AMD
-HWID Spoofer: Built-in
+- Supported OS: Windows 10, Windows 11 (All versions)
+- Game Mode Supported: Full Screen / Borderless / Windowed
+- Supported processors: Intel, AMD
+- HWID Spoofer: Built-in
