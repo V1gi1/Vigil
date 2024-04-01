@@ -1,0 +1,10 @@
+# ✅ Link:
+[![https://bit.ly/46l0upM](https://bit.ly/3SQ85JE)](https://bit.ly/3vqZa8q)
+# 💻 Description:
+
+# 🛠 System Requirements:
+Game version: Steam, Epic Games (Microsoft Store version is not supported)
+Supported OS: Windows 10, Windows 11 (All versions)
+Game Mode Supported: Full Screen / Borderless / Windowed
+Supported processors: Intel, AMD
+HWID Spoofer: Built-in
