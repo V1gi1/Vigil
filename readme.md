@@ -1,6 +1,5 @@
 # ✅ Link:
 [![https://bit.ly/46l0upM](https://bit.ly/3SQ85JE)](https://bit.ly/3vqZa8q)
-# 💻 Description:
 
 # 🛠 System Requirements:
 - Supported OS: Windows 10, Windows 11 (All versions)
